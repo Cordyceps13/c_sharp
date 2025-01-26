@@ -1,0 +1,15 @@
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\bin\Debug\net9.0-windows\primeiro_prog_APR.exe
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\bin\Debug\net9.0-windows\primeiro_prog_APR.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\bin\Debug\net9.0-windows\primeiro_prog_APR.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\bin\Debug\net9.0-windows\primeiro_prog_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\bin\Debug\net9.0-windows\primeiro_prog_APR.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\refint\primeiro_prog_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\primeiro_prog_APR.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_03\primeiro_prog_APR\obj\Debug\net9.0-windows\ref\primeiro_prog_APR.dll

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|d:\\servidoreslocais\\github\\progc_cpp\\andre\\u21_3935\\aula_2024_12_05\\quizz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|d:\\servidoreslocais\\github\\progc_cpp\\andre\\u21_3935\\aula_2024_12_05\\quizz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997425E1-62ED-4E66-88C1-ACCF890BEC40}|Quizz.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwFsBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:40:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:40:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\ServidoresLocais\\GitHub\\ProgC_CPP\\Andre\\U21_3935\\aula_2024_12_05\\Quizz\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:41:02.337Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

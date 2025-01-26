@@ -1,0 +1,15 @@
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\bin\Debug\net6.0-windows\SWD4CS.exe
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\bin\Debug\net6.0-windows\SWD4CS.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\bin\Debug\net6.0-windows\SWD4CS.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\bin\Debug\net6.0-windows\SWD4CS.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\bin\Debug\net6.0-windows\SWD4CS.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\refint\SWD4CS.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\SWD4CS.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\SWD4CS\SWD4CS-main\obj\Debug\net6.0-windows\ref\SWD4CS.dll

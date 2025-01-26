@@ -1,0 +1,15 @@
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\bin\Debug\net8.0\calculadora_APR.exe
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\bin\Debug\net8.0\calculadora_APR.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\bin\Debug\net8.0\calculadora_APR.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\bin\Debug\net8.0\calculadora_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\bin\Debug\net8.0\calculadora_APR.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\refint\calculadora_APR.dll
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\calculadora_APR.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_colab\Andre\ProgC#\aula_2024_11_20\calculadora_APR\obj\Debug\net8.0\ref\calculadora_APR.dll

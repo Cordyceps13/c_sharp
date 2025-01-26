@@ -1,0 +1,17 @@
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.exe
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\bin\Debug\net6.0-windows\MatchingGame.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.Form1.resources
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.GenerateResource.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\refint\MatchingGame.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\MatchingGame\obj\Debug\net6.0-windows\ref\MatchingGame.dll

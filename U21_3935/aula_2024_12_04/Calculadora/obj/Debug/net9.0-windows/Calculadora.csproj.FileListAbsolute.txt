@@ -1,0 +1,15 @@
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\bin\Debug\net9.0-windows\Calculadora.exe
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\bin\Debug\net9.0-windows\Calculadora.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\bin\Debug\net9.0-windows\Calculadora.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\bin\Debug\net9.0-windows\Calculadora.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\bin\Debug\net9.0-windows\Calculadora.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\refint\Calculadora.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\Calculadora.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_04\Calculadora\obj\Debug\net9.0-windows\ref\Calculadora.dll

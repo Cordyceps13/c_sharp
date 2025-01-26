@@ -1,0 +1,17 @@
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.exe
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.deps.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.runtimeconfig.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\bin\Debug\net6.0-windows\PictureViewer.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.Form1.resources
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.GenerateResource.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfoInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.AssemblyInfo.cs
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.sourcelink.json
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\refint\PictureViewer.dll
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.pdb
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\PictureViewer.genruntimeconfig.cache
+D:\GitHub_Repository_AP\ProgC_CPP_CS\Andre\U21_3935\aula_2024_12_05\PictureViewer\obj\Debug\net6.0-windows\ref\PictureViewer.dll
